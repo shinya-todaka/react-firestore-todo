@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter } from 'react-router-dom';
 import firebase from 'firebase/app';
-import './index.css';
 import FirebaseApp from './FirebaseApp';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
